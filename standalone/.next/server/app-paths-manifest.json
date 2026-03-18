@@ -1,0 +1,21 @@
+{
+  "/apple-icon.png/route": "app/apple-icon.png/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/icon.png/route": "app/icon.png/route.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/best-ai-2026/page": "app/best-ai-2026/page.js",
+  "/best-coding-ai-2026/page": "app/best-coding-ai-2026/page.js",
+  "/best-programming-languages-2026/page": "app/best-programming-languages-2026/page.js",
+  "/coding-ai/page": "app/coding-ai/page.js",
+  "/languages/page": "app/languages/page.js",
+  "/open-source-ai/page": "app/open-source-ai/page.js",
+  "/ai/page": "app/ai/page.js",
+  "/news/page": "app/news/page.js",
+  "/frameworks/page": "app/frameworks/page.js",
+  "/winners/page": "app/winners/page.js",
+  "/page": "app/page.js",
+  "/news/[slug]/page": "app/news/[slug]/page.js",
+  "/methodology/page": "app/methodology/page.js",
+  "/about/page": "app/about/page.js"
+}
